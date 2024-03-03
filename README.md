@@ -21,9 +21,4 @@ JavaScript
 Backend:
 
 Java
-How to Use
-Open the index.html file in your web browser.
-Choose the calculation type: Discounted Cash Flow or Enterprise Value.
-Enter the required inputs for the selected calculation.
-Click on the "Calculate" button.
-View the results displayed on the page.
+
