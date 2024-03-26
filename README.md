@@ -1,4 +1,6 @@
 Business Valuation Calculator
+
+
 This project is a web application for performing business valuation calculations. It includes two main calculations: Discounted Cash Flow (DCF) and Enterprise Value (EV).
 
 Features
@@ -10,7 +12,5 @@ Enterprise Value (EV): Calculate the enterprise value using market capitalizatio
 Input validation for various debt components, minority interests, and cash balance.
 Display results including market capitalization, total debt, enterprise value, and total minority interests.
 
-Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: Java
+
 
